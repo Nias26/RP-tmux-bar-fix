@@ -108,7 +108,6 @@ main() {
     local tmux_commands=()
 
     # Status bar
-    set "status" "on"
     set status-style "fg=$thm_pine,bg=$thm_base"
     # set monitor-activity "on"
     # Leave justify option to user
