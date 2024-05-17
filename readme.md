@@ -11,6 +11,10 @@
     </a>
 </p>
 
+## Fork
+The meaning of this fork is to provide a Rosé-Pine tmux theme without the `status-bar` on by **default**. My config has the `status-bar` turned off and turned-on only when prefix is pressed. Having the `status-bar` on by default breaks this behaivour.
+The other things are exactly like [[rose-pine/tmux]](https://github.com/rose-pine/tmux)
+
 ## Usage
 
 > NOTE: It uses a [Nerdfont](https://www.nerdfonts.com/font-downloads) by default for the icons, so it is recommended to have a Nerdfont set as your terminal font
