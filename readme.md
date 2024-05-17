@@ -25,7 +25,7 @@ The other things are exactly like [[rose-pine/tmux]](https://github.com/rose-pin
 2. Add the Rosé Pine plugin with the following lines:
 
 ```bash
-set -g @plugin 'rose-pine/tmux'
+set -g @plugin 'Nias26/RP-tmux-bar-fix'
 # ... alongside
 set -g @plugin 'tmux-plugins/tpm'
 # To update plugin for future revisions or bug fixes, do the "Prefix + U" keycombo
