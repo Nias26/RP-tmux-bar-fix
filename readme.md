@@ -12,8 +12,8 @@
 </p>
 
 ## Fork
-The meaning of this fork is to provide a Rosé-Pine tmux theme without the `status-bar` on by **default**. My config has the `status-bar` turned off and turned-on only when prefix is pressed. Having the `status-bar` on by default breaks this behaivour.
-The other things are exactly like [[rose-pine/tmux]](https://github.com/rose-pine/tmux)
+The meaning of this fork is to provide a Rosé-Pine tmux theme without the `status-bar` on by **default**. My config has the `status-bar` turned off and it turns on only when the prefix key is pressed. Having the `status-bar` on by default breaks this behaivour.
+The rest of the theme is untouched [[rose-pine/tmux]](https://github.com/rose-pine/tmux)
 
 ## Usage
 
